@@ -1,7 +1,7 @@
 {
   "name": "prokopishena.university.personalized-fitness-coaching-platform",
   "version": "1.0.0",
-  "description": "- Name and surname: Anastasiia Prokopishena\r - Email: prokopishena.anastasia@gmail.com\r - Telegram: https://t.me/yoon_hwoo\r - Name of Project: Personalized Fitness Coaching Platform\r - Email of the student: anastasiia.prokopishena@lnu.edu.ua\r - Link to github, where source code is stored: https://github.com/nastya-prokopishena/Prokpishena.University.Personalized-Fitness-Coaching-Platform.git",
+  "description": "- Name and surname: Anastasiia Prokopishena\r - Email: prokopishena.anastasia@gmail.com\r - Telegram: https://t.me/yoon_hwoo\r - Name of Project: Personalized Fitness Coaching Platform\r - Email of the student: anastasiia.prokopishena@lnu.edu.ua\r - Link to github, where source code is stored: https://github.com/nastya-prokopishena/Prokpishena.University.Personalized-Fitness-Platform.git",
   "main": "Prokopishena.University.Personalized-Fitness-Coaching-Platform.Web/server.js",
   "scripts": {
     "test": "jest",
