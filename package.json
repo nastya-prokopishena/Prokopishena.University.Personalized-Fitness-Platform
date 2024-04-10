@@ -5,7 +5,8 @@
   "main": "Prokopishena.University.Personalized-Fitness-Coaching-Platform.Web/server.js",
   "scripts": {
     "test": "jest",
-    "start": "nodemon Prokopishena.University.Personalized-Fitness-Coaching-Platform.Web/server.js"
+    "start": "nodemon Prokopishena.University.Personalized-Fitness-Coaching-Platform.Web/server.js",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
